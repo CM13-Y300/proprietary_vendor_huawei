@@ -30,7 +30,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8833/proprietary/lib/libauth.so:system/lib/libauth.so \
     vendor/huawei/u8833/proprietary/lib/libcm.so:system/lib/libcm.so \
     vendor/huawei/u8833/proprietary/lib/libcneapiclient.so:system/lib/libcneapiclient.so \
-    vendor/huawei/u8833/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
     vendor/huawei/u8833/proprietary/lib/libcneqmiutils.so:system/lib/libcneqmiutils.so \
     vendor/huawei/u8833/proprietary/lib/libcneutils.so:system/lib/libcneutils.so \
     vendor/huawei/u8833/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
