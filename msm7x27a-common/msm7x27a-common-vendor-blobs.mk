@@ -106,6 +106,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm7x27a-common/proprietary/lib/libdiag.so:system/lib/libdiag.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libdivxdrmdecrypt.so:obj/lib/libdivxdrmdecrypt.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
+    vendor/huawei/msm7x27a-common/proprietary/lib/libDivxDrm.so:system/lib/libDivxDrm.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libgesture_client.so:system/lib/libgesture_client.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libgestureservice.so:system/lib/libgestureservice.so \
@@ -131,6 +132,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm7x27a-common/proprietary/lib/libmmcamera_wavelet_lib.so:system/lib/libmmcamera_wavelet_lib.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
+    vendor/huawei/msm7x27a-common/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libnl_2.so:system/lib/libnl_2.so \
